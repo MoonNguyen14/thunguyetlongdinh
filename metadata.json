@@ -1,0 +1,6 @@
+{
+  "name": "VietinBank - Quầy Giao Dịch Tương Tác",
+  "description": "Cổng tiện ích và tương tác khách hàng tại quầy giao dịch VietinBank: Hướng dẫn nghiệp vụ Ipay, Game nhận quà xăng, Tính lãi tiền gửi & Lịch trả nợ vay, Sản phẩm nổi bật, và Mạng lưới giao dịch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
